@@ -1,5 +1,5 @@
 # w3schoolexercise
 
 Python
-List : https://www.w3resource.com/python-exercises/list/
-My Answer : Python_list.ipynb
+<br>List : https://www.w3resource.com/python-exercises/list/
+<br>My Answer : Python_list.ipynb
